@@ -1,0 +1,591 @@
+[NX Daemon Server] - 2024-01-18T16:32:00.113Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-18T16:32:00.117Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-18T16:32:00.124Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:00.126Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-18T16:32:00.126Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:00.128Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:32:00.142Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-18T16:32:00.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-18T16:32:00.142Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-18T16:32:00.227Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:32:00.228Z - Time taken for 'total for creating and serializing project graph' 98.95750000327826ms
+[NX Daemon Server] - 2024-01-18T16:32:00.229Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:32:00.229Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 99. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:32:00.232Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-18T16:32:00.232Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:00.233Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-18T16:32:00.233Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:00.234Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:32:00.234Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:32:00.234Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-18T16:32:18.301Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:32:18.303Z - [WATCHER]: angularEx.json was created or restored
+[NX Daemon Server] - 2024-01-18T16:32:18.411Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-18T16:32:18.411Z - [REQUEST]: angularEx.json
+[NX Daemon Server] - 2024-01-18T16:32:18.411Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-18T16:32:18.444Z - Time taken for 'hash changed files from watcher' 0.2044999971985817ms
+[NX Daemon Server] - 2024-01-18T16:32:21.805Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:32:21.806Z - [WATCHER]: angularEx.json was modified
+[NX Daemon Server] - 2024-01-18T16:32:22.022Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-18T16:32:22.022Z - [REQUEST]: angularEx.json
+[NX Daemon Server] - 2024-01-18T16:32:22.022Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-18T16:32:22.049Z - Time taken for 'hash changed files from watcher' 0.23799999803304672ms
+[NX Daemon Server] - 2024-01-18T16:32:35.173Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:32:35.174Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:35.174Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:32:35.176Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:32:35.176Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:32:35.177Z - Time taken for 'total for creating and serializing project graph' 0.2817999944090843ms
+[NX Daemon Server] - 2024-01-18T16:32:35.177Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:32:35.177Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:32:35.637Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:39.205Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:32:39.206Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:32:39.206Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:32:39.208Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:32:39.208Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:32:39.210Z - Time taken for 'total for creating and serializing project graph' 0.12789999693632126ms
+[NX Daemon Server] - 2024-01-18T16:32:39.210Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:32:39.210Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:32:39.637Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:33:48.830Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:33:48.830Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:33:48.831Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:33:48.833Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:33:48.834Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:33:48.835Z - Time taken for 'total for creating and serializing project graph' 0.18129999935626984ms
+[NX Daemon Server] - 2024-01-18T16:33:48.836Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:33:48.836Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:33:48.908Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-01-18T16:33:48.908Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-01-18T16:33:48.908Z - Handled HASH_TASKS. Handling time: 11. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:33:51.157Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:33:51.157Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:33:51.158Z - Established a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:33:51.159Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:33:51.159Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:33:51.160Z - Time taken for 'total for creating and serializing project graph' 0.1232999935746193ms
+[NX Daemon Server] - 2024-01-18T16:33:51.160Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:33:51.160Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:33:53.139Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:33:53.233Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:33:54.631Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:34:04.942Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:34:16.254Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:16.254Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:16.255Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:16.257Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:16.257Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:16.258Z - Time taken for 'total for creating and serializing project graph' 0.12640000134706497ms
+[NX Daemon Server] - 2024-01-18T16:34:16.258Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:16.258Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:34:16.687Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:19.629Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:19.629Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:19.630Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:19.632Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:19.632Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:19.633Z - Time taken for 'total for creating and serializing project graph' 0.15680000185966492ms
+[NX Daemon Server] - 2024-01-18T16:34:19.634Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:19.634Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:34:20.070Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:20.537Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:20.537Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:20.538Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:20.540Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:20.540Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:20.541Z - Time taken for 'total for creating and serializing project graph' 0.15410000085830688ms
+[NX Daemon Server] - 2024-01-18T16:34:20.542Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:20.542Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:34:20.973Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:40.015Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:40.015Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:40.016Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:40.018Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:40.018Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:40.019Z - Time taken for 'total for creating and serializing project graph' 0.1281999945640564ms
+[NX Daemon Server] - 2024-01-18T16:34:40.019Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:40.019Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:34:40.440Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:43.985Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:43.985Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:43.986Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:43.988Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:43.988Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:43.989Z - Time taken for 'total for creating and serializing project graph' 0.16380000114440918ms
+[NX Daemon Server] - 2024-01-18T16:34:43.989Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:43.989Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:34:44.410Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:50.653Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:50.653Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:50.654Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:50.656Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:50.656Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:50.657Z - Time taken for 'total for creating and serializing project graph' 0.15240000188350677ms
+[NX Daemon Server] - 2024-01-18T16:34:50.657Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:50.657Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:34:51.086Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:56.113Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:56.113Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:56.114Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:56.117Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:56.117Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:56.118Z - Time taken for 'total for creating and serializing project graph' 0.2669000029563904ms
+[NX Daemon Server] - 2024-01-18T16:34:56.119Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:56.119Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:34:56.142Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:56.142Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:56.143Z - Time taken for 'total for creating and serializing project graph' 0.16299999505281448ms
+[NX Daemon Server] - 2024-01-18T16:34:56.143Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:56.143Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:34:56.149Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:56.149Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:56.151Z - Time taken for 'total for creating and serializing project graph' 0.15799999982118607ms
+[NX Daemon Server] - 2024-01-18T16:34:56.151Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:56.151Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:34:56.187Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:34:56.187Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:34:56.187Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-01-18T16:34:56.211Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:57.763Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:57.763Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:34:57.764Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:34:57.767Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:57.767Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:57.768Z - Time taken for 'total for creating and serializing project graph' 0.16340000182390213ms
+[NX Daemon Server] - 2024-01-18T16:34:57.768Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:57.769Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:34:57.793Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:57.793Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:57.794Z - Time taken for 'total for creating and serializing project graph' 0.15940000116825104ms
+[NX Daemon Server] - 2024-01-18T16:34:57.794Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:57.794Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:34:57.800Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:34:57.800Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:34:57.801Z - Time taken for 'total for creating and serializing project graph' 0.15139999985694885ms
+[NX Daemon Server] - 2024-01-18T16:34:57.802Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:34:57.802Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:34:57.834Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:34:57.834Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:34:57.834Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-18T16:34:57.857Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:35:22.572Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:35:22.573Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:35:22.573Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:35:22.576Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:22.576Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:22.577Z - Time taken for 'total for creating and serializing project graph' 0.18069999665021896ms
+[NX Daemon Server] - 2024-01-18T16:35:22.578Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:22.578Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:35:22.603Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:22.603Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:22.604Z - Time taken for 'total for creating and serializing project graph' 0.2598000019788742ms
+[NX Daemon Server] - 2024-01-18T16:35:22.604Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:22.604Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:35:22.610Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:22.610Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:22.611Z - Time taken for 'total for creating and serializing project graph' 0.19329999387264252ms
+[NX Daemon Server] - 2024-01-18T16:35:22.611Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:22.611Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:35:22.645Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:35:22.645Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:35:22.645Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-18T16:35:22.668Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:35:24.287Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:35:24.287Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:35:24.288Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:35:24.290Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:24.291Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:24.292Z - Time taken for 'total for creating and serializing project graph' 0.19979999959468842ms
+[NX Daemon Server] - 2024-01-18T16:35:24.292Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:24.292Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:35:24.317Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:24.317Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:24.319Z - Time taken for 'total for creating and serializing project graph' 0.18230000138282776ms
+[NX Daemon Server] - 2024-01-18T16:35:24.319Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:24.319Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:35:24.324Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:24.324Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:24.325Z - Time taken for 'total for creating and serializing project graph' 0.1436000019311905ms
+[NX Daemon Server] - 2024-01-18T16:35:24.326Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:24.326Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:35:24.359Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:35:24.359Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2024-01-18T16:35:24.359Z - Handled REQUEST_FILE_DATA. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-01-18T16:35:24.382Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:35:30.033Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:35:30.034Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:35:30.034Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:35:30.036Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:35:30.036Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:35:30.038Z - Time taken for 'total for creating and serializing project graph' 0.12139999866485596ms
+[NX Daemon Server] - 2024-01-18T16:35:30.038Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:35:30.038Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:35:30.463Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:20.492Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:20.492Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:20.493Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:20.495Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:36:20.495Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:36:20.496Z - Time taken for 'total for creating and serializing project graph' 0.14479999989271164ms
+[NX Daemon Server] - 2024-01-18T16:36:20.496Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:36:20.496Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:36:20.919Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:24.476Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:24.476Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:24.477Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:24.479Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:36:24.479Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:36:24.480Z - Time taken for 'total for creating and serializing project graph' 0.1727999970316887ms
+[NX Daemon Server] - 2024-01-18T16:36:24.480Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:36:24.480Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:36:24.906Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:37.970Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:36:37.971Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-01-18T16:36:38.079Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-18T16:36:38.079Z - [REQUEST]: package.json
+[NX Daemon Server] - 2024-01-18T16:36:38.079Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-18T16:36:38.111Z - Time taken for 'hash changed files from watcher' 0.2110999971628189ms
+[NX Daemon Server] - 2024-01-18T16:36:38.342Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:36:53.463Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:53.463Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:53.464Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:53.466Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:36:53.466Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:36:53.467Z - Time taken for 'total for creating and serializing project graph' 0.13080000132322311ms
+[NX Daemon Server] - 2024-01-18T16:36:53.467Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:36:53.467Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:36:53.899Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:57.568Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:57.568Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:57.569Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:57.571Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:36:57.571Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:36:57.572Z - Time taken for 'total for creating and serializing project graph' 0.12399999797344208ms
+[NX Daemon Server] - 2024-01-18T16:36:57.572Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:36:57.572Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-01-18T16:36:58.005Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:58.121Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:58.122Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:36:58.122Z - Established a connection. Number of open connections: 4
+[NX Daemon Server] - 2024-01-18T16:36:58.124Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-18T16:36:58.124Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-01-18T16:36:58.125Z - Time taken for 'total for creating and serializing project graph' 0.12080000340938568ms
+[NX Daemon Server] - 2024-01-18T16:36:58.126Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-01-18T16:36:58.126Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2024-01-18T16:36:58.555Z - Closed a connection. Number of open connections: 3
+[NX Daemon Server] - 2024-01-18T16:39:46.674Z - Closed a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-18T16:39:46.676Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-18T16:40:18.337Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:40:18.338Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-01-18T16:40:18.446Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-18T16:40:18.446Z - [REQUEST]: angular.json
+[NX Daemon Server] - 2024-01-18T16:40:18.446Z - [REQUEST]: angularEx.json
+[NX Daemon Server] - 2024-01-18T16:40:18.465Z - Time taken for 'hash changed files from watcher' 0.8408999964594841ms
+[NX Daemon Server] - 2024-01-18T16:40:34.027Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:40:34.028Z - [WATCHER]: package.json was modified
+[NX Daemon Server] - 2024-01-18T16:40:34.231Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-18T16:40:34.231Z - [REQUEST]: angular.json,package.json
+[NX Daemon Server] - 2024-01-18T16:40:34.231Z - [REQUEST]: angularEx.json
+[NX Daemon Server] - 2024-01-18T16:40:34.243Z - Time taken for 'hash changed files from watcher' 0.27650000154972076ms
+[NX Daemon Server] - 2024-01-18T16:40:44.168Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-01-18T16:40:44.170Z - [WATCHER]: Stopping the watcher for d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (sources)
+[NX Daemon Server] - 2024-01-18T16:40:44.170Z - [WATCHER]: Stopping the watcher for d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (outputs)
+[NX Daemon Server] - 2024-01-18T16:40:44.170Z - Server stopped because: "Lock file changed"
+[NX Daemon Server] - 2024-01-19T09:50:36.823Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-19T09:50:36.830Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-19T09:50:36.837Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T09:50:36.839Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-19T09:50:36.839Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T09:50:36.841Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-19T09:50:36.871Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-19T09:50:36.871Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T09:50:36.871Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T09:50:36.972Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-19T09:50:36.973Z - Time taken for 'hash changed files from watcher' 28.82930000126362ms
+[NX Daemon Server] - 2024-01-19T09:50:36.975Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-19T10:01:47.589Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-19T10:01:47.593Z - [WATCHER]: Subscribed to changes within: D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-19T10:01:47.594Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T10:01:47.595Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-19T10:01:47.596Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T10:01:47.598Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-19T10:01:47.609Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-19T10:01:47.609Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T10:01:47.609Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T10:01:47.685Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-19T10:01:47.687Z - Time taken for 'hash changed files from watcher' 10.396599999999978ms
+[NX Daemon Server] - 2024-01-19T10:01:47.688Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-19T10:01:50.691Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-19T10:01:50.695Z - [WATCHER]: Subscribed to changes within: D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-19T10:01:50.697Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T10:01:50.699Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-19T10:01:50.699Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T10:01:50.701Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-19T10:01:50.745Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-19T10:01:50.745Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T10:01:50.745Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T10:01:50.820Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-19T10:01:50.822Z - Time taken for 'hash changed files from watcher' 43.47300000000001ms
+[NX Daemon Server] - 2024-01-19T10:01:50.823Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-19T10:01:51.687Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-19T10:01:51.691Z - [WATCHER]: Subscribed to changes within: D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-19T10:01:51.692Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T10:01:51.693Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-19T10:01:51.695Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-19T10:01:51.696Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-19T10:01:51.737Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-19T10:01:51.737Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T10:01:51.737Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-19T10:01:51.812Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async D:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-19T10:01:51.814Z - Time taken for 'hash changed files from watcher' 40.13379999999998ms
+[NX Daemon Server] - 2024-01-19T10:01:51.814Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-20T07:17:47.974Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-20T07:17:47.980Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-20T07:17:47.989Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T07:17:47.990Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-20T07:17:47.990Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T07:17:47.992Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-20T07:17:48.008Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-20T07:17:48.008Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T07:17:48.008Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T07:17:48.115Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-20T07:17:48.117Z - Time taken for 'hash changed files from watcher' 15.327499985694885ms
+[NX Daemon Server] - 2024-01-20T07:17:48.120Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-20T07:18:16.045Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-20T07:18:16.048Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-20T07:18:16.049Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T07:18:16.050Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-20T07:18:16.051Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T07:18:16.052Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-20T07:18:16.094Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-20T07:18:16.094Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T07:18:16.094Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T07:18:16.158Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-20T07:18:16.160Z - Time taken for 'hash changed files from watcher' 40.7960000038147ms
+[NX Daemon Server] - 2024-01-20T07:18:16.162Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-20T13:05:07.967Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-20T13:05:07.976Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-20T13:05:07.978Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T13:05:07.979Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-20T13:05:07.981Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T13:05:07.983Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-20T13:05:07.989Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-20T13:05:07.989Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T13:05:07.989Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T13:05:08.093Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-20T13:05:08.096Z - Time taken for 'hash changed files from watcher' 4.4798999999999864ms
+[NX Daemon Server] - 2024-01-20T13:05:08.097Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-20T19:40:52.374Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-20T19:40:52.381Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-20T19:40:52.389Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T19:40:52.391Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-01-20T19:40:52.391Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-20T19:40:52.393Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-20T19:40:52.408Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-20T19:40:52.408Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T19:40:52.408Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-20T19:40:52.524Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-20T19:40:52.526Z - Time taken for 'hash changed files from watcher' 13.364800000039395ms
+[NX Daemon Server] - 2024-01-20T19:40:52.527Z - Done responding to the client null
+[NX Daemon Server] - 2024-01-21T07:46:16.020Z - Started listening on: \\.\pipe\nx\C:\Users\HARITH~1\AppData\Local\Temp\1a3976c3bce35b99c343\d.sock
+[NX Daemon Server] - 2024-01-21T07:46:16.031Z - [WATCHER]: Subscribed to changes within: d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01 (native)
+[NX Daemon Server] - 2024-01-21T07:46:16.034Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-21T07:46:16.036Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-01-21T07:46:16.038Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-01-21T07:46:16.041Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-01-21T07:46:16.061Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-01-21T07:46:16.062Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-21T07:46:16.062Z - [REQUEST]: 
+[NX Daemon Server] - 2024-01-21T07:46:16.266Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+Error: The following projects are defined in multiple locations:
+- wishlistV01: 
+  - .
+  - 
+
+To fix this, set a unique name for each project in a project.json inside the project's root. If the project does not currently have a project.json, you can create one that contains only a name.
+    at readProjectConfigurationsFromRootMap (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:218:15)
+    at d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\project-configuration-utils.js:188:23
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async createProjectConfigurations (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\project-graph\utils\retrieve-workspace-files.js:89:62)
+    at async processFilesAndCreateAndSerializeProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:140:28)
+    at async getCachedSerializedProjectGraphPromise (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:43:16)
+    at async handleRequestProjectGraph (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\handle-request-project-graph.js:12:24)
+    at async handleResult (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:110:16)
+    at async handleMessage (d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:81:9)
+    at async d:\MORATUWA CAMPUS\Academic\Year 02\2nd Year Software Development Group\Codings\Frontend\Angular Test\wishlistV01\node_modules\nx\src\daemon\server\server.js:45:9
+[NX Daemon Server] - 2024-01-21T07:46:16.270Z - Time taken for 'hash changed files from watcher' 18.267099998891354ms
+[NX Daemon Server] - 2024-01-21T07:46:16.271Z - Done responding to the client null

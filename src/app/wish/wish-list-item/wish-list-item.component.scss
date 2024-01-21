@@ -1,0 +1,14 @@
+.strikeout{
+    text-decoration: line-through;
+  }
+
+  .text-muted{
+    opacity: 0.6;
+  }
+
+  .direction-row {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
