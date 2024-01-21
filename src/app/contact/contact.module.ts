@@ -31,7 +31,7 @@ import { ContactComponent } from './contact.component';
     MatCardModule,
     MatIconButton,
     MatGridListModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
   ],
   exports: [
     ContactComponent
