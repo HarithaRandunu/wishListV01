@@ -1,0 +1,13 @@
+
+
+<div class="result-content">
+<mat-form-field class="">
+    <mat-select 
+    [(ngModel)]="listFilter" 
+    (ngModelChange)="updateFilter($event)"
+    name="wish-state">
+      <mat-option *ngFor="let state of states" [value]="state.value">{{ state.name }}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  </div>
