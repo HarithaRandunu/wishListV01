@@ -1,0 +1,28 @@
+<div class="container">
+
+    <form>
+  
+      <mat-card appearance="outlined" class="wish-form">
+  
+        <mat-card-header>
+          <mat-card-title class="wish-title">Wish Information</mat-card-title>
+        </mat-card-header>
+  
+        <mat-card-content>
+          <add-wish-form class="full-width" (addWish)="items.push($event)"></add-wish-form>
+        </mat-card-content>
+  
+        <mat-card-footer>
+          <div class="row">
+            <div class="col">
+              <wish-filter [(filter)]="filter"></wish-filter>
+              <wish-list [wishes]="items.filter(filter)"></wish-list>
+            </div>
+            <div class="col"></div>
+          </div>
+        </mat-card-footer>
+  
+      </mat-card>
+    </form>
+  
+  </div>

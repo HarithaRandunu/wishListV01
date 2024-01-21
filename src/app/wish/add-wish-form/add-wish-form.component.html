@@ -1,0 +1,21 @@
+<div class="row">
+    <div class="col">
+        <mat-form-field class="full-width">
+            <input 
+            type="text" 
+            name="new-wish-text" 
+            matInput placeholder="Enter the wish...." 
+            [(ngModel)]="newWishText"
+            >
+        </mat-form-field>
+    </div>
+    <mat-card-actions>
+        <button 
+        mat-raised-button 
+        color="primary" 
+        type="submit" 
+        (click)="$event.preventDefault(); addNewWish()"
+        >Add
+            Wish</button>
+    </mat-card-actions>
+</div>

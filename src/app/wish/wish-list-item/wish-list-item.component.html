@@ -1,0 +1,18 @@
+
+<li class="direction-row">
+    <div class="form-check">
+        <label class="form-check-label" [ngClass]="cssClasses">       
+            <input 
+            class="checkbox" 
+            type="checkbox" 
+            [checked]="wish.isComplete" 
+            (click)="toggleFulfilled()"
+            >{{ wish.wishText }}
+        </label>
+    </div>
+    <div>
+        <button mat-icon-button type="button"(click)="removeWish()">
+            <mat-icon>delete</mat-icon>
+        </button>
+    </div>
+</li>

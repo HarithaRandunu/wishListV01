@@ -1,0 +1,187 @@
+
+
+<app-wish></app-wish>
+
+
+
+<!-- Stage 05
+  
+  <div class="container">
+
+  <form>
+    <mat-card appearance="outlined" class="wish-form">
+
+      <mat-card-header>
+        <mat-card-title class="wish-title">Wish Information</mat-card-title>
+      </mat-card-header>
+
+      <mat-card-content>
+        <div class="row">
+          <div class="col">
+            <mat-form-field class="full-width">
+              <input type="text" name="new-wish-text" matInput placeholder="Enter the wish...."
+                [(ngModel)]="newWishText">
+            </mat-form-field>
+          </div>
+          <div class="col">
+            <mat-card-actions>
+              <button mat-raised-button color="primary" type="submit"
+                (click)="$event.preventDefault(); addNewWish()">Add Wish</button>
+            </mat-card-actions>
+          </div>
+        </div>
+      </mat-card-content>
+
+      <mat-card-footer>
+
+        <div class="row">
+          <div class="col">
+            <div class="result-content">
+              <mat-form-field 
+              class=""
+              >
+                <mat-select 
+                [(ngModel)]="listFilter"
+                name="wish-state"
+                >
+                    <mat-option 
+                    *ngFor="let state of states; trackBy: trackByFn" 
+                    [value]="state.value"
+                    >{{ state.name }}
+                  </mat-option>
+                  
+                </mat-select>
+              </mat-form-field>
+            </div>
+            <div class="result-content">
+              <div *ngIf="visibleItems.length == 0; else showItems">
+                There are no wishes to display.
+              </div>
+
+              <ng-template #showItems>
+                <ul class="wish-list">
+                  <li *ngFor="let item of visibleItems; index as X">
+                    <div class="form-check">
+                      <label class="form-check-label">
+                        <input class="checkbox" type="checkbox" [checked]="item.isComplete" [attr.data-index]="X"
+                          (click)="toggleItem(item)">{{ item.wishText}}
+                      </label>
+                    </div>
+                  </li>
+                </ul>
+              </ng-template>
+            </div>
+          </div>
+        </div>
+
+      </mat-card-footer>
+    </mat-card>
+  </form>
+
+
+
+</div>
+-->
+
+
+
+<!-- Stage 04
+  
+  <div class="container">
+
+  <div *ngIf="items.length == 0; else showItems">
+    There are no wishes to display.
+  </div>
+
+  <ng-template #showItems>
+    <ul class="wish-list">
+      <li *ngFor="let item of items; index as X">
+        <div class="form-check">
+          <label class="form-check-label">
+            <input 
+            class="checkbox" 
+            type="checkbox"
+            [checked] = "item.isComplete"
+            [attr.data-index]="X"
+            (click)="toggleItem(item)"
+            >{{ item.wishText}}
+          </label>
+        </div>
+      </li>
+    </ul>
+  </ng-template>
+
+</div> -->
+
+
+
+
+<!-- Stage 03
+  
+  <div class="container">
+
+  <div *ngIf="items.length == 0; then noItems else showItems"></div>
+
+  <ng-template #noItems>
+    There are no wishes to display.
+  </ng-template>
+
+  <ng-template #showItems>
+    <ul class="wish-list">
+      <li *ngFor="let item of items">
+        <div class="form-check">
+          <label class="form-check-label">
+            <input class="checkbox" type="checkbox">{{ item.wishText}}
+          </label>
+        </div>
+      </li>
+    </ul>
+  </ng-template>
+
+</div> -->
+
+
+
+
+<!-- Stage 02
+  
+  <div class="container">
+
+  <div *ngIf="items.length == 0">
+    There are no wishes to display.
+  </div>
+
+
+  <ul *ngIf="items.length != 0" class="wish-list">
+    <li *ngFor="let item of items">
+      <div class="form-check">
+        <label class="form-check-label">
+          <input class="checkbox" type="checkbox">{{ item.wishText}}
+        </label>
+      </div>
+    </li>
+  </ul>
+</div> -->
+
+
+
+
+<!-- Stage 01
+  
+  <div class="container">
+
+  <div *ngIf="items.length == 0">
+    There are no wishes to display.
+  </div>
+
+
+  <ul class="wish-list">
+    <li *ngFor="let item of items">
+      <div class="form-check">
+        <label class="form-check-label">
+          <input class="checkbox" type="checkbox">{{ item.wishText}}
+        </label>
+      </div>
+    </li>
+  </ul>
+</div> -->
