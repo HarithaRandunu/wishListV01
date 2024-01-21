@@ -11,6 +11,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ReactiveFormsModule } from '@angular/forms';
 import { ContactComponent } from './contact.component';
+import { FormsModule} from '@angular/forms';
 
 
 
@@ -31,7 +32,8 @@ import { ContactComponent } from './contact.component';
     MatCardModule,
     MatIconButton,
     MatGridListModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    FormsModule
   ],
   exports: [
     ContactComponent

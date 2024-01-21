@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { FormControl } from '@angular/forms';
+import { FormGroup, FormControl, Validators } from '@angular/forms';
+import { createInvalidDomainValidator } from './invalidEmailDomains';
+
+const invalidEmailDomain = createInvalidDomainValidator(['gmail.com', 'yahoo.com', 'hotmail.com']);
 
 @Component({
   selector: 'app-contact',
@@ -16,14 +19,19 @@ export class ContactComponent implements OnInit {
     throw new Error('Method not implemented.');
   }
 
-  senderNameControl = new FormControl('');
-  senderEmailControl = new FormControl('');
-  senderMessageControl = new FormControl('');
+  contactForm = new FormGroup({
+    senderName: new FormControl('', Validators.required),
+    senderEmail: new FormControl('', [Validators.required, Validators.email, invalidEmailDomain]),
+    senderMessage: new FormControl('', [Validators.required, Validators.minLength(10)])
+  })
 
+  
   submitForm() {
-    if(this.senderNameControl.dirty) {
-      alert('you changed the name field');
-    }
+
+    console.log(this.contactForm.valid);
+    // if(this.senderNameControl.dirty) {
+    //   alert('you changed the name field');
+    // }
   }
 
 }
