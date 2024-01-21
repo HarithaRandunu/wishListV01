@@ -1,4 +1,4 @@
-.wish-list{
+.contact-list{
     list-style: none;
 }
 
@@ -6,11 +6,11 @@
     width: 100%;
   }
 
-  .wish-title{
+  .contact-title{
     margin: 20px;
   }
   
-  .wish-form {
+  .contact-form {
     min-width: 120px;
     margin: 20px auto;
   }
@@ -34,10 +34,12 @@
   .col {
     flex: 1;
     margin-right: 20px;
-    align-items: center;
-    text-align: center;
   }
   
   .col:last-child {
     margin-right: 0;
+  }
+
+  .emailClass {
+    border-radius: 100px;
   }
